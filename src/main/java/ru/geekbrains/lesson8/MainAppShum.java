@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson7;
+package ru.geekbrains.lesson8;
 
 public class MainAppShum {
     public static void main(String[] args) {

@@ -8,6 +8,9 @@ public class Task2 {
         int c = 165132189;
         long d = 45L;
 
+        String s = 2+2+"java";
+        int[][][] s1 = {{{1,2},{3,4}},{{5,7},{9,0}}};
+
         float e = 18.445158f;
         double f = 2.8481658165498;
         char g ='!';
