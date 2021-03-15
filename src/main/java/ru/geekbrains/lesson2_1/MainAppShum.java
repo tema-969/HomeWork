@@ -12,7 +12,7 @@ public class MainAppShum {
 
         for (int i = 0; i < let.length; i++) {
             for (int j = 0; j < champions.length; j++) {
-                champions[j].run();//yне понимаю как заставить это заработать...
+               // champions[j].run();//yне понимаю как заставить это заработать...
             }
         }
     }
